@@ -24,4 +24,3 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
 =======
 # HarryKural.github.io
->>>>>>> a0cd6263713ce1d3c7f40a39f1772583926c3451
